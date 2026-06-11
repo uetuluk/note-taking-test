@@ -1,0 +1,6 @@
+{
+  "name": "Note Taking App",
+  "description": "A clean, elegant note taking application with organized notebooks, tagging, full-text search, and markdown-enhanced preview capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
